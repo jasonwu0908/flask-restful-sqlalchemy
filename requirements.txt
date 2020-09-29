@@ -4,3 +4,4 @@ Flask-RESTful==0.3.8
 Flask-SQLAlchemy==2.4.4
 pysqlite3==0.4.3
 uwsgi
+psycopg2
